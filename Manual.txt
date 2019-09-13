@@ -1,0 +1,45 @@
+Farmer's Markets Website Manual
+
+
+Getting Started / Home Page:
+
+	Welcome to my website! When you first get to the website you should be on the home page. On this
+	page you will see the logo of my website, along with a menu bar that allows you to go to different
+	pages in my wesbite. One of the options in the menu bar is the "View All" button. The last
+	option in the menu bar is the "Search" Button.
+	
+
+View All Button:
+
+	If you click this button, you should be redirected to the "View All" page, displaying the logo, along with the 
+	first 100 Farmer's Markets. If you would like to view the next page of Farmer's Markets, click on the
+	right arrow key button on the bottom of the page. If you would like to go back to the previous page, press 
+	the left arrow key button on the bottom of the page. These pages will display the name of the markets,
+	along with the city and state that they are located in. If you would like to view more information about
+	a specific market, click on the name of the Farmer's Market. This will redirect you to a page that
+	shows you more information about the market such as their name, full street address, links to their
+	media (if available), and detailed information about the products that are available at this market.
+	
+
+Search Button:
+
+	If you click this button, you should be redirected to the "Search" page, which displays the logo, and four
+	text boxes. There will be a text box for City, State, Zip Code, and Radius. If you would like to search for
+	Farmer's Market that are within a City, State, Zip, or all of the above, Enter the information for these
+	options and press the "Submit" button. You will then see a list of Farmer's Markets that meet your desired
+	input. If there are more than 100 results, you can view the next list by clicking on the right arrow key 
+	button on the bottom of the page. If you would like to go back to the previous page, press the left arrow 
+	key button on the bottom of the page. These pages will display the name of the markets,
+	along with the city and state that they are located in. If you would like to view more information about
+	a specific market, click on the name of the Farmer's Market. This will redirect you to a page that
+	shows you more information about the market such as their name, full street address, links to their
+	media (if available), and detailed information about the products that are available at this market.
+	
+	If you would like to search for all of the Farmer's Markets that are within a certain radius of a specific
+	zip code, enter the zip code you'd like to search for in the respective box, along with the radius and press
+	the submit button. You will then see a list of Farmer's Markets that meet your desired input. This page does
+	not implement pagination. As per usual, if you would like to view more information about a specific Farmer's
+	Market, click on the name of the market. 
+	
+	
+	

@@ -1,0 +1,81 @@
+ Test Cases:
+
+
+ Test 1:
+
+ You should initially be on the home page. Then, press the view all button. The first page should pop up, and you should see the first market whose name is "Shelby Food and Craft Market". Click on this market. After click, a new page should pop up where you see information about Shelby Food. The page should have this data:
+
+
+        Market Name             Shelby Food and Craft Market
+        Location                City Hall park  Shelby, Montana 59474
+        Credit Card Accepted    N
+        Cash Accepted           N
+        Organic                 -
+        Baked Goods             N
+        Cheese                  N
+        Crafts                  N
+        Flowers                 N
+        Eggs                    N
+        Seafood                 N
+        Herbs                   N
+        Vegetables              N
+        Honey                   N
+        Jams                    N
+        Maple                   N
+        Meat                    N
+        Nursery                 N
+        Nuts                    N
+        Plants                  N
+        Poultry                 N
+        Prepared                N
+        Soap                    N
+        Trees                   N
+        Wine                    N
+        Coffee                  N
+        Beans                   N
+        Fruits                  N
+        Grains                  N
+        Juices                  N
+        Mushrooms               N
+        Pet Food                N
+        Tofu                    N
+        Wild Harvested              N
+
+Test 2:
+    You should initially be on the Home page. Press the view all button. You should be able to press the right next button 87 times. The final farmer's market should be "YMCA Farmers Market and Veggie Van"
+
+Test 3:
+    Click on the search page. In the city text box, type in "Troy" and press submit. These results should pop up:
+
+    Peddlers Paradise                               Troy    Ohio
+    Miami County Farmers Market                     Troy    Ohio
+    Troy Community Market                           Troy    Idaho
+    CUIVRE RIVER FARMERS MARKET TROY                Missouri
+    Montgomery County Farmers' Market Association   Troy    North Carolina
+    Downtown Troy Farmers Market                    Troy    Ohio
+    Pioneer Farmers Market                          Troy    Alabama
+    Troy Waterfront Farmers Market                  Troy    New York
+
+Test 4:
+    Click on the search page. In the city text box enter "Troy", in the state textbox enter "New York" and in the zipcode enter "12181". Press submit. You should see these results:
+
+    Troy Waterfront Farmers Market      Troy    New York
+
+Test 5:
+    Click on the search page. In the zipcode text box, enter "12180" and in the range enter "10". Press submit and you should see these results:
+
+
+    Farmers Market at the Crossings                 Loudonville New York
+    Capital District Farmers Market in Menands      Menands New York
+    Cohoes Farmers' Market                          Cohoes  New York
+    Rensselaer County Farmers Market                North Greenbush New York
+    Empire State Plaza Farmers Market               Albany  New York
+    Brunswick Farmers Market                        Brunswick   New York
+    North Greenbush Farmers Market                  North Greenbush New York
+    Waterford Harbor Farmers Market                 Waterford   New York
+    Watervliet Farmers Market                       Albany  New York
+    Farmers Market in Menands                       Menands New York
+    Poestenkill Farmers Market                      Poestenkill New York
+    Troy Waterfront Farmers Market                  Troy    New York
+    East Greenbush Library & YMCA Farmers Market    East Greenbush  New York
+    Farm to Preschool Market: Mercy Cares for Kids  Albany  New York
